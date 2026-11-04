@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hashem%20Mersh&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Video%20Editor&descSize=20&descAlignY=60" alt="Hashem Mersh header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hashem%20Maher%20Hashem&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20Video%20Editor&descSize=20&descAlignY=60" alt="Hashem Maher Hashem header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF652F&center=true&vCenter=true&width=720&height=60&lines=Hi+there%2C+I'm+Hashem+Mersh+%F0%9F%91%8B;Full+Stack+Software+Engineer+%F0%9F%92%BB;Video+Editor+%7C+After+Effects+%26+Premiere+Pro+%F0%9F%8E%AC;I+turn+ideas+into+apps+and+into+videos+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF652F&center=true&vCenter=true&width=720&height=60&lines=Hi+there%2C+I'm+Hashem+Maher+Hashem+%F0%9F%91%8B;Full+Stack+Software+Engineer+%F0%9F%92%BB;Video+Editor+%7C+After+Effects+%26+Premiere+Pro+%F0%9F%8E%AC;I+turn+ideas+into+apps+and+into+videos+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br />
@@ -23,7 +23,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> About Me
 
-I'm **Hashem Mersh**, a **Full Stack Software Engineer** and **Video Editor**. I live in two worlds that feed each other: writing clean, scalable code, and telling stories through motion and edit.
+I'm **Hashem Maher Hashem**, a **Full Stack Software Engineer** and **Video Editor**. I live in two worlds that feed each other: writing clean, scalable code, and telling stories through motion and edit.
 
 - 💻 **As an engineer**, I build web applications end to end: frontend, backend, database, and deployment
 - 🎬 **As an editor**, I work with **After Effects**, **Premiere Pro**, and other editing tools to create motion graphics, edits, and finished videos
