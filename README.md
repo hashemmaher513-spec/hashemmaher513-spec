@@ -73,11 +73,6 @@ I'm **Hashem Maher**, a **Full Stack Software Engineer** who builds web apps end
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hashemmaher513-spec&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashemmaher513-spec&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=hashemmaher513-spec&theme=tokyonight&hide_border=true" />
 </p>
 
