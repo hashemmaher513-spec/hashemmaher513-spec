@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hashemmaher513-spec&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/hashemmaher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@halaftbll"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hashemmaher513-spec&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -19,9 +21,9 @@ I'm **Hashem Maher**, a **Full Stack Software Engineer** who builds web apps end
 - 💻 I build full stack web apps with **Node.js, TypeScript, React and Next.js**
 - 🧠 I've learned a lot of languages: JavaScript, TypeScript, Python, C++, HTML, CSS, SQL and more
 - 🎬 I edit videos in **After Effects** and **Premiere Pro**: football edits, motion graphics, transitions and VFX
-- ⚽ I love football and turn match moments into cinematic edits
+- ⚽ My football edits on [TikTok](https://www.tiktok.com/@halaftbll) have **7.9K+ followers** and **480K+ likes**
 - 🌱 Always learning new tech and new editing techniques
-- 🤝 Open to freelance work in **web development** and **video editing**
+- 🤝 Open to freelance work in **web development** and **video editing**: message me on [LinkedIn](https://www.linkedin.com/in/hashemmaher/)
 - ⚡ Fun fact: I can build the app *and* edit the promo video for it
 
 ---
@@ -68,6 +70,8 @@ I'm **Hashem Maher**, a **Full Stack Software Engineer** who builds web apps end
 - 🎨 Color grading, sound design and VFX
 - 📱 Content for TikTok, Instagram Reels and YouTube
 
+👉 Watch my edits: **[@halaftbll on TikTok](https://www.tiktok.com/@halaftbll)**
+
 ---
 
 ## 📈 GitHub Stats
@@ -81,8 +85,12 @@ I'm **Hashem Maher**, a **Full Stack Software Engineer** who builds web apps end
 ## 🌍 Let's Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/hashemmaher/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@halaftbll"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://github.com/hashemmaher513-spec"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+💼 For freelance projects (web or video), the best way to reach me is a **LinkedIn message**.
 
 <p align="center">Thanks for stopping by! If you like my work, drop a ⭐ on my repos.</p>
 
